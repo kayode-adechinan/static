@@ -1,0 +1,144 @@
+#custom-search-input {
+    padding: 0px;
+    border: solid 1px #E4E4E4;
+    border-radius: 6px;
+    background-color: #fff;
+}
+
+#custom-search-input input {
+    border: 0;
+    box-shadow: none;
+
+}
+
+#custom-search-input button {
+    margin: 2px 0 0 0;
+    background: none;
+    box-shadow: none;
+    border: 0;
+    color: #666666;
+    padding: 0 8px 0 10px;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input button:hover {
+    border: 0;
+    box-shadow: none;
+    border-left: solid 1px #ccc;
+}
+
+#custom-search-input .glyphicon-search {
+    font-size: 20px;
+}
+
+.easy-autocomplete {
+    width: 100% !important
+}
+
+.easy-autocomplete input {
+    width: 100%;
+}
+
+.easy-autocomplete-container {
+
+    margin-top: 21px!important;
+}
+
+.easy-autocomplete-container ul {
+
+    margin-top: 27px !important;
+}
+
+.easy-autocomplete-container ul li, .easy-autocomplete-container ul .eac-category {
+
+        color: #2196F3 !important;
+}
+
+.easy-autocomplete-container ul li, .easy-autocomplete-container ul .eac-category {
+
+        text-align: left !important;
+}
+
+img.display {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #09548a;
+    border-color: #09548a
+}
+
+.title-widget {
+    color: #898989;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1;
+    position: relative;
+    text-transform: uppercase;
+    font-family: 'Fjalla One', sans-serif;
+    padding-left: 28px;
+    margin: 0 0 25px
+}
+
+.title-widget::before {
+    background-color: #900;
+    content: "";
+    height: 22px;
+    left: 0;
+    position: absolute;
+    top: -2px;
+    width: 5px
+}
+
+.widget_nav_menu ul {
+    list-style: outside none none;
+    padding-left: 0
+}
+
+.widget_archive ul li {
+    background-color: rgba(0, 0, 0, 0.3);
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    top: 7px;
+    width: 3px
+}
+
+.widget_nav_menu ul li {
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    position: relative;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+    margin-bottom: 7px;
+    padding-bottom: 7px;
+    width: 95%
+}
+
+.title-median {
+    color: #636363;
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 15px;
+    text-transform: uppercase;
+    font-family: 'Fjalla One', sans-serif
+}
+
+.slide {
+    height: 500px;
+}
+
+@media only screen and (max-width: 600px) {
+
+
+}
+
+
+.uppercase {
+  text-transform: uppercase;
+  }
